@@ -1,0 +1,23 @@
+_repo: Armand-de-Pontmartin-sa-vie-et-ses-oeuvres-1811-1890_50930
+creator:
+  author:
+    agent_name: Biré, Edmond
+    alias: Bire, Edmond
+    birthdate: 1829
+    deathdate: 1907
+    gutenberg_agent_id: '8307'
+    url: http://www.gutenberg.org/2009/agents/8307
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2016-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50930'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Armand de Pontmartin, sa vie et ses oeuvres 1811-1890
+url: http://www.gutenberg.org/ebooks/50930
